@@ -1,0 +1,19 @@
+h3 {
+    font-size: 30px
+}
+ul {
+    border: 1px solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+li {
+    color: orange
+}
+img {
+    height: 100px;
+    width: 100px;
+}
+.header {
+    background: orangered;
+    padding: 10px;
+}
